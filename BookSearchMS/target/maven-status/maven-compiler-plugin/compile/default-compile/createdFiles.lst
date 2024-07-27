@@ -1,0 +1,7 @@
+com\skindia\bookprice\BookPriceController.class
+com\skindia\bookprice\BookPriceServiceImpl.class
+com\skindia\bookprice\SkBookPriceConfig.class
+com\skindia\bookprice\BookPriceService.class
+com\skindia\bookprice\BookPriceDAO.class
+com\skindia\bookprice\BookPrice.class
+com\skindia\bookprice\BookPriceApplication.class
